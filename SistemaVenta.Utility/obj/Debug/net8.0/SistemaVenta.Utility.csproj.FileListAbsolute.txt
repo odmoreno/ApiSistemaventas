@@ -1,0 +1,17 @@
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.deps.json
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfo.cs
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\refint\SistemaVenta.Utility.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\ref\SistemaVenta.Utility.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\bin\Debug\net8.0\Sistemaventa.DTO.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVental.Model.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\bin\Debug\net8.0\Sistemaventa.DTO.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVental.Model.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVenta.Utility\obj\Debug\net8.0\SistemaV.10E87F00.Up2Date

@@ -1,0 +1,14 @@
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\bin\Debug\net8.0\SistemaVental.Model.deps.json
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\bin\Debug\net8.0\SistemaVental.Model.runtimeconfig.json
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\bin\Debug\net8.0\SistemaVental.Model.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\bin\Debug\net8.0\SistemaVental.Model.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.csproj.AssemblyReference.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.AssemblyInfoInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.AssemblyInfo.cs
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.csproj.CoreCompileInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\refint\SistemaVental.Model.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\SistemaVental.Model.genruntimeconfig.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SistemaVental.Model\obj\Debug\net8.0\ref\SistemaVental.Model.dll

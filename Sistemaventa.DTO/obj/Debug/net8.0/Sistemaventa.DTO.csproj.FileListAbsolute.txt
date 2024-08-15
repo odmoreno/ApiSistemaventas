@@ -1,0 +1,11 @@
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\bin\Debug\net8.0\Sistemaventa.DTO.deps.json
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\bin\Debug\net8.0\Sistemaventa.DTO.dll
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\bin\Debug\net8.0\Sistemaventa.DTO.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\Sistemaventa.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\Sistemaventa.DTO.AssemblyInfoInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\Sistemaventa.DTO.AssemblyInfo.cs
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\Sistemaventa.DTO.csproj.CoreCompileInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\Sistemaventa.DTO.dll
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\refint\Sistemaventa.DTO.dll
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\Sistemaventa.DTO.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\Sistemaventa.DTO\obj\Debug\net8.0\ref\Sistemaventa.DTO.dll

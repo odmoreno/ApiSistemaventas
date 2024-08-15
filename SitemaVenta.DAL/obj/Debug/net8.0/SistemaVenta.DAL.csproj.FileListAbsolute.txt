@@ -1,0 +1,15 @@
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.deps.json
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\bin\Debug\net8.0\SistemaVental.Model.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\bin\Debug\net8.0\SistemaVental.Model.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfo.cs
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\refint\SistemaVenta.DAL.dll
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.pdb
+E:\Repo\Personal\ApiSistemaVentas\API\SitemaVenta.DAL\obj\Debug\net8.0\ref\SistemaVenta.DAL.dll
